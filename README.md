@@ -1,0 +1,2 @@
+# TipsTricksPintar
+file.js
